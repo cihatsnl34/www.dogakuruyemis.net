@@ -1,0 +1,15 @@
+footer .main-footer{  padding: 20px 0;  background: #252525;}
+.footer-copyright { background: #222; padding: 5px 0;}
+.footer-copyright nav ul li a{  color: #969696;}
+.footer-copyright p { color: #969696; margin: 2px 0 0;}
+
+.widget-title {margin-bottom: 20px;}
+.widget-title span {background: #839FAD none repeat scroll 0 0;display: block; height: 1px;margin-top: 25px;position: relative;width: 20%;}
+.widget-title span::after {background: inherit;content: "";height: inherit;    position: absolute;top: -4px;width: 50%;}
+.widget-title.text-center span,.widget-title.text-center span::after {margin-left: auto;margin-right:auto;left: 0;right: 0;}
+.widget .badge{ float: right; background: #7f7f7f;}
+.typo-light{  color: #fff;}
+
+ul.social-footer2 { margin: 0;padding: 0; width: auto;}
+ul.social-footer2 li {display: inline-block;padding: 0;}
+.btn{background-color: #00a54f; color:#fff;}
